@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\Biblioteca\LibreriaN\LibreriaN\bin\Debug\LibreriaN.dll
+C:\Users\Pc\Desktop\Biblioteca\LibreriaN\LibreriaN\bin\Debug\LibreriaN.pdb
+C:\Users\Pc\Desktop\Biblioteca\LibreriaN\LibreriaN\obj\Debug\LibreriaN.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Biblioteca\LibreriaN\LibreriaN\obj\Debug\LibreriaN.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Biblioteca\LibreriaN\LibreriaN\obj\Debug\LibreriaN.dll
+C:\Users\Pc\Desktop\Biblioteca\LibreriaN\LibreriaN\obj\Debug\LibreriaN.pdb

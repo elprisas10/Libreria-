@@ -1,0 +1,10 @@
+C:\Users\Pc\Desktop\Biblioteca\LibreriaUsoN\LibreriaUsoN\bin\Debug\LibreriaUsoN.exe.config
+C:\Users\Pc\Desktop\Biblioteca\LibreriaUsoN\LibreriaUsoN\bin\Debug\LibreriaUsoN.exe
+C:\Users\Pc\Desktop\Biblioteca\LibreriaUsoN\LibreriaUsoN\bin\Debug\LibreriaUsoN.pdb
+C:\Users\Pc\Desktop\Biblioteca\LibreriaUsoN\LibreriaUsoN\bin\Debug\LibreriaN.dll
+C:\Users\Pc\Desktop\Biblioteca\LibreriaUsoN\LibreriaUsoN\bin\Debug\LibreriaN.pdb
+C:\Users\Pc\Desktop\Biblioteca\LibreriaUsoN\LibreriaUsoN\obj\Debug\LibreriaUsoN.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Biblioteca\LibreriaUsoN\LibreriaUsoN\obj\Debug\LibreriaUsoN.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Biblioteca\LibreriaUsoN\LibreriaUsoN\obj\Debug\LibreriaUsoN.csproj.CopyComplete
+C:\Users\Pc\Desktop\Biblioteca\LibreriaUsoN\LibreriaUsoN\obj\Debug\LibreriaUsoN.exe
+C:\Users\Pc\Desktop\Biblioteca\LibreriaUsoN\LibreriaUsoN\obj\Debug\LibreriaUsoN.pdb
